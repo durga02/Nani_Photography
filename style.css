@@ -52,7 +52,7 @@ section {
 
 /* Hero Section */
 .hero {
-  background: url('images/NANI\ 1.JPG') no-repeat center center/cover;
+  background: url('NANI\ 1.JPG') no-repeat center center/cover;
   color: #fff;
   padding: 150px 20px;
   height: 80vh;
@@ -767,3 +767,4 @@ footer img {
   height: 50px;
   margin-bottom: 10px;
 }
+
